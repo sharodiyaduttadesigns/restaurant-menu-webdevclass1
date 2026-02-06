@@ -1,18 +1,15 @@
 p{
-
-.libre-baskerville-<uniquifier> {
-  font-family: "Libre Baskerville", serif;
-  font-optical-sizing: auto;
+  .abel-regular {
+  font-family: "Abel", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 }
 
 h1, h2, h3, h4, h5, h6{
-.abel-regular {
-  font-family: "Abel", sans-serif;
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
-
 }
